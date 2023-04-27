@@ -1,0 +1,14 @@
+country,age,salary,purchased
+france,44,34000,yes
+spain,55,45000,no
+germany,43,23000,no
+france,56,34000,yes
+india,30,54000,yes
+france,30,,no
+spain,,52000,yes
+germany,76,12300,yes
+america,54,54300,yes
+india,,36000,yes
+america,58,54000,no
+sapin,34,32100,no
+france,43,32000,no
